@@ -26,7 +26,7 @@ function iLoveTheBeatles(number){
   const x = []
   
   do {
-  x.push();
+  x.push("");
   number++
 } while ( i < 15);
   
