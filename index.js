@@ -3,6 +3,7 @@ function theBeatlesPlay(musicians, instruments) {
   
   for ([initialization]; [condition]; [iteration]) {
   [loopBody]
+  }
 }
   
 }
