@@ -12,7 +12,8 @@ function theBeatlesPlay(musicians, instruments) {
 function johnLennonFacts(facts){
   const shoutedfact = []
   
-  while ([condition]) {
+  let i = 0
+  while (i < facts.length) {
   [loopBody]
   }
   
