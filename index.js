@@ -25,5 +25,8 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(number){
   const x = []
   
+  do {
+  [loopBody];
+} while ([condition]);
   
 }
