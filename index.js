@@ -21,3 +21,9 @@ function johnLennonFacts(facts){
   return shoutedfact
   
 }
+
+function iLoveTheBeatles(number){
+  const x = []
+  
+  
+}
