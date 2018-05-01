@@ -1,5 +1,6 @@
 function theBeatlesPlay(musicians, instruments) {
-  var 
+  var array = []
+  
 }
 
 function johnLennonFacts(facts){
